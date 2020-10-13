@@ -1,6 +1,5 @@
-# TransLoc OnDemand Automation Testing
-An automation testing repository for TransLoc's OnDemand and Authentication applications using 
-Python, Pytest, and Selenium.
+# Python Automation Testing
+An automation testing repository for applications using Python, Pytest, and Selenium.
 
 1. [Installation](#installation)
 2. [Running Tests](#running-tests)
